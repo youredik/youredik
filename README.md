@@ -29,6 +29,8 @@ API, интерфейс, инфраструктура, выкладка. Код 
 - **[posiflora-telegram-mvp](https://github.com/youredik/posiflora-telegram-mvp)** — Telegram-уведомления
   для магазинов: идемпотентность, запуск одной командой.
 
+**Образование:** Яндекс Практикум — инженер облачных сервисов, 2025.
+
 ## Вклад в открытый код
 
 - **[langchain-ydb #33](https://github.com/ydb-platform/langchain-ydb/pull/33)** — векторные хранилища
